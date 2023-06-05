@@ -13,7 +13,7 @@ public class Response {
 
 	private String message;
 	
-	private Boolean statusCode;
+	private Boolean status;
 	
 	private Object data;
 }
